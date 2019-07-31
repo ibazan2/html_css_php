@@ -2,7 +2,7 @@
 
 $anoNascimento = 1984;
 
-$nomeCompleto = "Italo Bazan";
+$nomeCompleto = "Italo Bazan1";
 
 echo $nomeCompleto," nasceu em " , $anoNascimento;
 echo "<br>";
